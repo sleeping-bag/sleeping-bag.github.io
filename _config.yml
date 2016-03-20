@@ -27,7 +27,7 @@ disqus: mydisqus
 # pinterest: mypinterest
 # linkedin: mylinkedin
 #youtube: myyoutube
-spotify: mmmcheese
+spotify: mmmcheeese
 github: sleeping-bag
 medium: medium
 email: satyamccheesy@gmail.com
@@ -49,7 +49,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
