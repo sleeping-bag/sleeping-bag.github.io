@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
-<link href="localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-<link href="localhost:4000/" rel="alternate" type="text/html" />
-<updated>2016-03-20T22:12:59+01:00</updated>
-<id>localhost:4000/</id>
+<link href="sleeping-bag.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="sleeping-bag.github.io/" rel="alternate" type="text/html" />
+<updated>2016-03-24T20:24:17+01:00</updated>
+<id>sleeping-bag.github.io/</id>
 <title>Satyajit Bagchi</title>
 <entry>
 <title>Markdown Extra Components</title>
-<link href="localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" />
+<link href="sleeping-bag.github.io/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" />
 <published>2016-02-24T22:48:00+01:00</published>
 <updated>2016-02-24T22:48:00+01:00</updated>
-<id>localhost:4000/markdown-extra-components</id>
-<content type="html" xml:base="localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<id>sleeping-bag.github.io/markdown-extra-components</id>
+<content type="html" xml:base="sleeping-bag.github.io/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -187,11 +187,11 @@ star: true
 </entry>
 <entry>
 <title>Markdown Common Elements</title>
-<link href="localhost:4000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
+<link href="sleeping-bag.github.io/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" />
 <published>2016-02-24T22:44:00+01:00</published>
 <updated>2016-02-24T22:44:00+01:00</updated>
-<id>localhost:4000/markdown-common-elements</id>
-<content type="html" xml:base="localhost:4000/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<id>sleeping-bag.github.io/markdown-common-elements</id>
+<content type="html" xml:base="sleeping-bag.github.io/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -408,11 +408,11 @@ $(window).scroll(function() {&lt;/p&gt;
 </entry>
 <entry>
 <title>Simple personal website</title>
-<link href="localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Simple personal website" />
+<link href="sleeping-bag.github.io/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Simple personal website" />
 <published>2016-01-23T22:10:00+01:00</published>
 <updated>2016-01-23T22:10:00+01:00</updated>
-<id>localhost:4000/indigo-jekyll-theme</id>
-<content type="html" xml:base="localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<id>sleeping-bag.github.io/indigo-jekyll-theme</id>
+<content type="html" xml:base="sleeping-bag.github.io/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 

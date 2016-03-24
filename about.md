@@ -11,7 +11,7 @@ permalink: /about/index.html
 -->
             
 
-<p>Satyajit Bagchi is currently working towards his Masters degree at the Royal Institute of technology in Stockholm. His hobbies include robotics, playing the guitar, reading, and referring to himself in the third person. The prophecies say one day he is to become a writer...Only time will tell.</p>
+<p>Satyajit Bagchi is currently a Masters student at the Royal Institute of technology in Stockholm. His hobbies include robotics, playing the guitar, reading, and referring to himself in the third person. The prophecies say one day he is to become a writer...Only time will tell.</p>
 
 <!--
 <h2>Skills</h2>
