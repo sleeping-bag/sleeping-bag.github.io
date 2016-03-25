@@ -17,6 +17,7 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/)
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+
 -->
+
+[Check it out](http://sleeping-bag.github.com/sleeping-bag.github.io/)
