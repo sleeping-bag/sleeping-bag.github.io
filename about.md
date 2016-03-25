@@ -11,7 +11,7 @@ permalink: /about/index.html
 -->
             
 
-<p>Satyajit Bagchi is currently a Masters student at the Royal Institute of technology in Stockholm. His hobbies include robotics, playing the guitar, reading, and referring to himself in the third person. He spends his time on weekends pondering philosophical questions like "What is the meaning of life" and "What is love" Baby dont hurt me. Dont hurt me. No more.</p>
+<p>Satyajit Bagchi is currently a Masters student at the Royal Institute of technology in Stockholm. His hobbies include robotics, playing the guitar, reading, and referring to himself in the third person. </p>
 
 <!--
 <h2>Skills</h2>
