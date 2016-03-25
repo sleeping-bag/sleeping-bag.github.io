@@ -8,7 +8,7 @@ tag:
 blog: true
 star: true
 ---
-
+<!--
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
@@ -214,3 +214,4 @@ $(window).scroll(function() {
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+-->

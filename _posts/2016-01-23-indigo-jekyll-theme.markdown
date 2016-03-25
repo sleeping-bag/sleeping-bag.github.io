@@ -8,7 +8,7 @@ projects: true
 description: "Made a simple website with the stuff I enjoy and the stuff I've worked on."
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
-
+<!--
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
@@ -19,3 +19,4 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 [Check it out](http://sergiokopplin.github.io/indigo/)
 If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+-->
