@@ -2,23 +2,9 @@
   
     {
       "title"    : "First post",
-      "tags"     : "markdown, components, and extra",
+      "tags"     : "blog and first",
       "url"      : "/first-post/",
       "date"     : "25 Mar 2016"
-    } ,
-  
-    {
-      "title"    : "First post",
-      "tags"     : "blog and first",
-      "url"      : "/markdown-extra-components/",
-      "date"     : "25 Mar 2016"
-    } ,
-  
-    {
-      "title"    : "Markdown Common Elements",
-      "tags"     : "markdown and elements",
-      "url"      : "/markdown-common-elements/",
-      "date"     : "24 Feb 2016"
     } ,
   
     {

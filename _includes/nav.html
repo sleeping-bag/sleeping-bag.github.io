@@ -11,7 +11,7 @@
                 <li class="item">
                     <!--<a class="link" href="{{ site.url | prepend: site.baseurl}}/blog">Blog</a>
                     {{ post.url | prepend: site.baseurl }}-->
-                    <a class="link" href="http://sleeping-bag.github.io/blog">Blog</a>
+                    <a class="link" href="{{site.url}}/blog/">Blog</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -20,7 +20,7 @@
             {% if page.title != "Projects" %}
                 <li class="item">
                     <!--<a class="link" href="{{ site.url | prepend: site.baseurl}}/projects">Projects</a>-->
-                    <a class="link" href="http://sleeping-bag.github.io/projects">Projects</a>
+                    <a class="link" href="{{site.url}}/projects">Projects</a>
                 </li>
             {% endif %}
         {% endif %}
