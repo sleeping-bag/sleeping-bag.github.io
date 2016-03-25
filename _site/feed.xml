@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
-<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2016-03-25T15:26:14+01:00</updated>
-<id>http://localhost:4000/</id>
+<link href="http://sleeping-bag.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://sleeping-bag.github.io/" rel="alternate" type="text/html" />
+<updated>2016-03-25T15:43:50+01:00</updated>
+<id>http://sleeping-bag.github.io/</id>
 <title>Satyajit Bagchi</title>
 <entry>
 <title>First post</title>
-<link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="First post" />
+<link href="http://sleeping-bag.github.io/first-post/" rel="alternate" type="text/html" title="First post" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/first-post</id>
-<content type="html" xml:base="http://localhost:4000/first-post/">&lt;p&gt;My hands are typing words&lt;/p&gt;
+<id>http://sleeping-bag.github.io/first-post</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/first-post/">&lt;p&gt;My hands are typing words&lt;/p&gt;
 </content>
 <category term="blog" />
 <category term="first" />
@@ -20,11 +20,11 @@
 </entry>
 <entry>
 <title>Simple personal website</title>
-<link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title="Simple personal website" />
+<link href="http://sleeping-bag.github.io/personal-website/" rel="alternate" type="text/html" title="Simple personal website" />
 <published>2016-01-23T22:10:00+01:00</published>
 <updated>2016-01-23T22:10:00+01:00</updated>
-<id>http://localhost:4000/indigo-jekyll-theme</id>
-<content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;!--
+<id>http://sleeping-bag.github.io/personal-website</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/personal-website/">&lt;!--
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
@@ -33,9 +33,10 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/)
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+
 --&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/sleeping-bag/sleeping-bag.github.io/&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="jekyll" />
 <summary>&amp;lt;!–</summary>

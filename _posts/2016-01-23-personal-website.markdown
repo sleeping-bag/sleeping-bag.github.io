@@ -20,4 +20,4 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 -->
 
-[Check it out](http://sleeping-bag.github.com/sleeping-bag.github.io/)
+[Check it out](http://github.com/sleeping-bag/sleeping-bag.github.io/)
