@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "First post",
+      "tags"     : "markdown, components, and extra",
+      "url"      : "/first-post/",
+      "date"     : "25 Mar 2016"
+    } ,
+  
+    {
       "title"    : "Markdown Extra Components",
       "tags"     : "markdown, components, and extra",
       "url"      : "/markdown-extra-components/",
