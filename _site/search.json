@@ -1,6 +1,41 @@
 [
   
     {
+      "title"    : "SVM Spam classifier",
+      "tags"     : "projects, SVM, spam, and machine learning",
+      "url"      : "/svm-spam-classifier/",
+      "date"     : "25 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "Server anomaly detection",
+      "tags"     : "projects, movie, recommender system, and machine learning",
+      "url"      : "/server-anomaly-detection/",
+      "date"     : "25 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "PCA on a human face dataset",
+      "tags"     : "projects, PCA, and machine learning",
+      "url"      : "/pca-human/",
+      "date"     : "25 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "Digit recognition using Neural networks",
+      "tags"     : "projects, neural network, and machine learning",
+      "url"      : "/neural-network/",
+      "date"     : "25 Mar 2016"
+    } ,
+  
+    {
+      "title"    : "Movie Recommender System",
+      "tags"     : "projects, movie, recommender system, and machine learning",
+      "url"      : "/movie-recommender-system/",
+      "date"     : "25 Mar 2016"
+    } ,
+  
+    {
       "title"    : "First post",
       "tags"     : "blog and first",
       "url"      : "/first-post/",
@@ -9,7 +44,7 @@
   
     {
       "title"    : "Simple personal website",
-      "tags"     : "jekyll",
+      "tags"     : "jekyll, projects, website",
       "url"      : "/personal-website/",
       "date"     : "23 Jan 2016"
     } 

@@ -1,0 +1,16 @@
+---
+title: "PCA on a human face dataset"
+layout: post
+date: 2016-03-25 13:08
+tag:
+- projects
+- PCA
+- machine learning
+projects: true
+description: "Analysis of the principal components in human faces"
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+
+Part of Andrew Ng's machine learning course.
+[Check it out](https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex7/ex7)
