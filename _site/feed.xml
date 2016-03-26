@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
-<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2016-03-26T14:27:33+01:00</updated>
-<id>http://localhost:4000/</id>
+<link href="http://sleeping-bag.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://sleeping-bag.github.io/" rel="alternate" type="text/html" />
+<updated>2016-03-26T14:37:13+01:00</updated>
+<id>http://sleeping-bag.github.io/</id>
 <title>Satyajit Bagchi</title>
 <entry>
 <title>SVM Spam classifier</title>
-<link href="http://localhost:4000/svm-spam-classifier/" rel="alternate" type="text/html" title="SVM Spam classifier" />
+<link href="http://sleeping-bag.github.io/svm-spam-classifier/" rel="alternate" type="text/html" title="SVM Spam classifier" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/svm-spam-classifier</id>
-<content type="html" xml:base="http://localhost:4000/svm-spam-classifier/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex6/ex6&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
+<id>http://sleeping-bag.github.io/svm-spam-classifier</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/svm-spam-classifier/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex6/ex6&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="projects" />
 <category term="SVM" />
@@ -22,11 +22,11 @@
 </entry>
 <entry>
 <title>Server anomaly detection</title>
-<link href="http://localhost:4000/server-anomaly-detection/" rel="alternate" type="text/html" title="Server anomaly detection" />
+<link href="http://sleeping-bag.github.io/server-anomaly-detection/" rel="alternate" type="text/html" title="Server anomaly detection" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/server-anomaly-detection</id>
-<content type="html" xml:base="http://localhost:4000/server-anomaly-detection/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex8/ex8&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
+<id>http://sleeping-bag.github.io/server-anomaly-detection</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/server-anomaly-detection/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex8/ex8&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="projects" />
 <category term="movie" />
@@ -36,11 +36,11 @@
 </entry>
 <entry>
 <title>PCA on a human face dataset</title>
-<link href="http://localhost:4000/pca-human/" rel="alternate" type="text/html" title="PCA on a human face dataset" />
+<link href="http://sleeping-bag.github.io/pca-human/" rel="alternate" type="text/html" title="PCA on a human face dataset" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/pca-human</id>
-<content type="html" xml:base="http://localhost:4000/pca-human/">&lt;p&gt;Part of Andrew Ng’s machine learning course.
+<id>http://sleeping-bag.github.io/pca-human</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/pca-human/">&lt;p&gt;Part of Andrew Ng’s machine learning course.
 &lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex7/ex7&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="projects" />
@@ -50,11 +50,11 @@
 </entry>
 <entry>
 <title>Digit recognition using Neural networks</title>
-<link href="http://localhost:4000/neural-network/" rel="alternate" type="text/html" title="Digit recognition using Neural networks" />
+<link href="http://sleeping-bag.github.io/neural-network/" rel="alternate" type="text/html" title="Digit recognition using Neural networks" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/neural-network</id>
-<content type="html" xml:base="http://localhost:4000/neural-network/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex4/ex4&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
+<id>http://sleeping-bag.github.io/neural-network</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/neural-network/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex4/ex4&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="projects" />
 <category term="neural network" />
@@ -63,11 +63,11 @@
 </entry>
 <entry>
 <title>Movie Recommender System</title>
-<link href="http://localhost:4000/movie-recommender-system/" rel="alternate" type="text/html" title="Movie Recommender System" />
+<link href="http://sleeping-bag.github.io/movie-recommender-system/" rel="alternate" type="text/html" title="Movie Recommender System" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/movie-recommender-system</id>
-<content type="html" xml:base="http://localhost:4000/movie-recommender-system/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex8/ex8&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
+<id>http://sleeping-bag.github.io/movie-recommender-system</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/movie-recommender-system/">&lt;p&gt;&lt;a href=&quot;https://github.com/sleeping-bag/Machine_learning_AndrewNg/tree/master/machine-learning-ex8/ex8&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
 </content>
 <category term="projects" />
 <category term="movie" />
@@ -77,11 +77,11 @@
 </entry>
 <entry>
 <title>First post</title>
-<link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="First post" />
+<link href="http://sleeping-bag.github.io/first-post/" rel="alternate" type="text/html" title="First post" />
 <published>2016-03-25T13:08:00+01:00</published>
 <updated>2016-03-25T13:08:00+01:00</updated>
-<id>http://localhost:4000/first-post</id>
-<content type="html" xml:base="http://localhost:4000/first-post/">&lt;p&gt;My hands are typing words&lt;/p&gt;
+<id>http://sleeping-bag.github.io/first-post</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/first-post/">&lt;p&gt;My hands are typing words&lt;/p&gt;
 </content>
 <category term="blog" />
 <category term="first" />
@@ -89,11 +89,11 @@
 </entry>
 <entry>
 <title>Simple personal website</title>
-<link href="http://localhost:4000/personal-website/" rel="alternate" type="text/html" title="Simple personal website" />
+<link href="http://sleeping-bag.github.io/personal-website/" rel="alternate" type="text/html" title="Simple personal website" />
 <published>2016-01-23T22:10:00+01:00</published>
 <updated>2016-01-23T22:10:00+01:00</updated>
-<id>http://localhost:4000/personal-website</id>
-<content type="html" xml:base="http://localhost:4000/personal-website/">&lt;!--
+<id>http://sleeping-bag.github.io/personal-website</id>
+<content type="html" xml:base="http://sleeping-bag.github.io/personal-website/">&lt;!--
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
