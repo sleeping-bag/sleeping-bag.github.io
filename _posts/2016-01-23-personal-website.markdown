@@ -12,12 +12,11 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.gi
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
-
-
 -->
+[Github repo](http://github.com/sleeping-bag/sleeping-bag.github.io/)
 
-[Check it out](http://github.com/sleeping-bag/sleeping-bag.github.io/)
+The website deign is based on the indigo theme by [Kopplin](https://github.com/sergiokopplin/indigo)
+
 
 <!--
 ## Summary:
