@@ -2,7 +2,7 @@
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
-                <a class="link" href="http://sleeping-bag.github.io">Home</a>
+                <a class="link" href="{{site.url}}/">Home</a>
             </li>
         {% endif %}
 
@@ -25,7 +25,7 @@
         {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
-                    <a class="link" href="http://sleeping-bag.github.io/about">About</a>
+                    <a class="link" href="{{site.url}}/about">About</a>
                 </li>
             {% endif %}
         {% endif %}

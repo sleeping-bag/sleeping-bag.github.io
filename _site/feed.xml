@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2016-05-29T16:04:45+02:00</updated>
+<updated>2016-05-29T16:27:36+02:00</updated>
 <id>http://localhost:4000/</id>
 <title>Satyajit Bagchi</title>
 <entry>
@@ -97,12 +97,10 @@
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
-
-
 --&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/sleeping-bag/sleeping-bag.github.io/&quot;&gt;Github repo&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://github.com/sleeping-bag/sleeping-bag.github.io/&quot;&gt;Check it out&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The website deign is based on the indigo theme by &lt;a href=&quot;https://github.com/sergiokopplin/indigo&quot;&gt;Kopplin&lt;/a&gt;&lt;/p&gt;
 
 &lt;!--
 ## Summary:
