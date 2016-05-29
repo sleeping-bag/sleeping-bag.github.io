@@ -6,8 +6,8 @@ bio: I type stuff into computers
 external-image: false
 picture: "assets/images/profile.jpg"
 
-url: http://sleeping-bag.github.io
-#url: http://localhost:4000
+#url: http://sleeping-bag.github.io
+url: http://localhost:4000
 baseurl: ""
 # your url: http://USERNAME.github.io
 
