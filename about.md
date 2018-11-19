@@ -25,5 +25,5 @@ permalink: /about/index.html
 <h2>Stuff I'm proud of</h2>
 
 <ul>
-	<li><a href="https://github.com/sleeping-bag/sleeping-bag.github.io">This website</a></li>
+	<li><a href="http://sleeping-bag.github.io/projects/">Stuff I've  done</a></li>
 </ul>
