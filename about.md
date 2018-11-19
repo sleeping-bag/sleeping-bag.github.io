@@ -11,7 +11,7 @@ permalink: /about/index.html
 -->
             
 
-<p>Satyajit Bagchi is currently a Masters student at the Royal Institute of technology in Stockholm. His hobbies include robotics, playing the guitar, reading, and referring to himself in the third person. </p>
+<p>Satyajit Bagchi is currently a Mechatronics Engineer working in Stockholm. His hobbies include robotics, playing the guitar, reading, and referring to himself in the third person. </p>
 
 <!--
 <h2>Skills</h2>
